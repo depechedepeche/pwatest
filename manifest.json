@@ -9,7 +9,7 @@
 	"display": "standalone",
 	"orientation": "any",
 	"scope": "/",
-	"start_url": "https://depechedepeche.github.io/pwatest/",
+	"start_url": "/",
 	"gcm_sender_id": "",
 	"gcm_user_visible_only": true,
 	"categories": [],
