@@ -19,7 +19,7 @@
     document.body.appendChild(el);     
   
     if ('serviceWorker' in navigator) {
-      navigator.serviceWorker.register('./pwabuilder-sw.js')
+      navigator.serviceWorker.register('pwabuilder-sw.js')
       .then((reg) => {
         console.log('서비스 워커가 등록됨.', reg);
       });
